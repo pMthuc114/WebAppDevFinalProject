@@ -1,0 +1,10 @@
+In the .env file of the back-end
+
+MONGODB_URI=<>
+JWT_SECRET=Secret
+FRONTEND_BASE_URL=http://localhost:5173
+PORT=5000
+
+CLOUDINARY_CLOUD_NAME=<>
+CLOUDINARY_API_KEY=<>
+CLOUDINARY_API_SECRET=<>
