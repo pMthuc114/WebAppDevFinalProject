@@ -1,3 +1,7 @@
+the presentation video is inside of the presentaion.rar
+
+
+
 In the .env file of the back-end
 
 MONGODB_URI=<>
